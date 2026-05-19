@@ -67,7 +67,7 @@ Accuracy: 98.08%
 
 ## Files
 
-- `Power_System_Fixed_v2.ipynb`: Main notebook
+- `code_project.ipynb`: Main notebook
 - `powerline_dataset.csv`: Detection dataset
 - `classData.csv`: Classification dataset
 - `Final_Report.pdf`: Final report
